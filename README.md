@@ -119,6 +119,6 @@ grocery-api/
 
 ## 📌 Author
 
-Bhanu Sai Prakash Bandaru
+Mohammed Mudassir Hussain
 
 Aspiring Data Scientist | FastAPI
